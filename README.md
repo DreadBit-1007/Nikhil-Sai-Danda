@@ -15,3 +15,12 @@
 - Wireshark
 - Incident Analysis
 - Firewall Configuration
+
+---
+
+## 💻 Projects
+
+🔹 SOC Home Lab  
+Built a simulated SOC environment using SIEM tools to monitor logs and detect suspicious activity.
+
+---
