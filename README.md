@@ -27,7 +27,3 @@ Built a simulated SOC environment using SIEM tools to monitor logs and detect su
 Performed email header analysis and threat investigation.
 
 ---
-
-## 📫 Contact
-LinkedIn: (add link)
-Email: (optional)
