@@ -31,6 +31,3 @@ Performed email header analysis and threat investigation.
 # Contact 
 
 Mail - sainikhildanda@gmail.com
-
-Mobile - y34y01t4y19309
-
