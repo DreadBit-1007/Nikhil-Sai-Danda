@@ -28,9 +28,4 @@ Performed email header analysis and threat investigation.
 
 ---
 
-## Education
-
-Graduated from RYM Engineering College in CSE(AIML)
-
----
-
+## 
