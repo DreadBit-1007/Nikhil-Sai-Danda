@@ -28,8 +28,3 @@ Performed email header analysis and threat investigation.
 
 ---
 
-## Contact 
-
-Mail: sainikhildanda@gmail.com
-
-modile: 8088182152
