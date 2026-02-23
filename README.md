@@ -27,3 +27,10 @@ Built a simulated SOC environment using SIEM tools to monitor logs and detect su
 Performed email header analysis and threat investigation.
 
 ---
+
+## Education
+
+Graduated from RYM Engineering College in CSE(AIML)
+
+---
+
